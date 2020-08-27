@@ -1,4 +1,4 @@
-# Fandango-Movie-Ratings
+# Fandango Movie Ratings
 In this project, we'll be analyzing data collected on movies released in 2016 and 2017 and critique Fandango's former practice of rating movies on a 5 star scale. (Now, the ratings seen on Fandango are the "Tomatometer" and "Audience Score" produced by Rotten Tomatoes).
 
 In October 2015, a data journalist named Walt Hickey wrote an article analyzing movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. Fandango is a popular website that aggregates movie ratings. Fandango used to display a 5-star rating system on their website, where the minimum ratings is 0 stars and the maximum rating is 5 stars.
